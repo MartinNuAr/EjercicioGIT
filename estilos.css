@@ -1,0 +1,20 @@
+
+header{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: orchid;
+    text-align: center;
+    
+}
+
+select{
+    border: 1em solid;
+    color: purple;
+
+}
+select option{
+    color: white;
+    font-size: 10 px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
