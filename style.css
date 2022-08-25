@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(179, 105, 133);
+}
+div {
+    background-color: pink;
+}
+h3{
+    font-family: cursive; font-size: 15px;font-weight: 100;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;font-weight: bolder;
+}
